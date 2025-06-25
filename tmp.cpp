@@ -28,13 +28,14 @@ using namespace std;
 
 void solve()
 {
-    ${1:// your code here}
+    // your code here
 }
 
 signed main() {
     ios::sync_with_stdio(false);
     cout.tie(0); cin.tie(0);
-    ll test = ${2:1};
+// change tests 
+    ll test = 1 ;
     // cin >> test;
     while(test--) {
         solve();
